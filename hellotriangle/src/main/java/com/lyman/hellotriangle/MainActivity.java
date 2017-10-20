@@ -13,9 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         mTriangleView = new TriangleView(this);
         setContentView(mTriangleView);
-
-
-
     }
 
     @Override

@@ -1,1 +1,1 @@
-include ':app', ':hellotriangle'
+include ':app', ':hellotriangle', ':shaderdemo', ':vertexdemo', ':primitive', ':texturedemo', ':fragmentshaderdemo'

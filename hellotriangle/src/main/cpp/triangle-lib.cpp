@@ -3,7 +3,6 @@
 
 #define LOG_TAG "TRIANGLE-LIB"
 #define ALOGE(...) __android_log_print(ANDROID_LOG_ERROR, LOG_TAG, __VA_ARGS__)
-
 #include <jni.h>
 #include <stdlib.h>
 
